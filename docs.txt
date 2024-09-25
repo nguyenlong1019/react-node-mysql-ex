@@ -1,6 +1,7 @@
 npx create-react-app . 
 npm start 
 npm i react-router-dom
+npm i sass
 
 install client: npm i -f 
 npm start
