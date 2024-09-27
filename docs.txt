@@ -4,4 +4,7 @@ npm i react-router-dom
 npm i sass
 
 install client: npm i -f 
-npm start
+npm start 
+
+
+SCSS not working
